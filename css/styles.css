@@ -54,6 +54,9 @@ a {
 }
 
 .header-menu-p {
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 
@@ -70,6 +73,9 @@ a {
 }
 
 .header-menu-c {
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
   color: #2e2f42;
 }
 
