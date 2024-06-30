@@ -41,14 +41,6 @@ a {
   color: #404bbf;
 }
 
-.header-menu-s:active {
-  background: #404bbf;
-  border-radius: 2px;
-  width: 48px;
-  height: 4px;
-  color: #2e2f42;
-}
-
 .header-menu-s:focus {
   color: #404bbf;
 }
@@ -61,16 +53,16 @@ a {
   color: #2e2f42;
 }
 
+.header-menu-p {
+  color: #2e2f42;
+}
+
 .header-menu-p:hover {
   color: #404bbf;
 }
 
-.header-menu-p:active {
-  background: #404bbf;
-  border-radius: 2px;
-  width: 48px;
-  height: 4px;
-  color: #2e2f42;
+.header-menu-p:focus {
+  color: #404bbf;
 }
 
 .header-menu-c {
@@ -85,16 +77,8 @@ a {
   color: #404bbf;
 }
 
-.header-menu-c:active {
-  background: #404bbf;
-  border-radius: 2px;
-  width: 48px;
-  height: 4px;
-  color: #2e2f42;
-}
-
-.header-adress {
-  font-style: normal;
+.header-menu-c:focus {
+  color: #404bbf;
 }
 
 .header-address-mail {
@@ -104,8 +88,11 @@ a {
   color: #434455;
 }
 
-.header-address-mail:hover,
-:focus {
+.header-address-mail:hover {
+  color: #404bbf;
+}
+
+.header-address-mail:focus {
   color: #404bbf;
 }
 
@@ -116,8 +103,11 @@ a {
   color: #434455;
 }
 
-.header-address-tel:hover,
-:focus {
+.header-address-tel:hover {
+  color: #404bbf;
+}
+
+.header-address-tel:focus {
   color: #404bbf;
 }
 
