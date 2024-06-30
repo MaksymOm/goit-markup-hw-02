@@ -33,6 +33,10 @@ a {
   color: #2e2f42;
 }
 
+.header-menu-s {
+  color: #2e2f42;
+}
+
 .header-menu-s:hover {
   color: #404bbf;
 }
@@ -49,8 +53,16 @@ a {
   color: #404bbf;
 }
 
+.header-menu-p {
+  color: #2e2f42;
+}
+
 .header-menu-p:hover {
   color: #404bbf;
+}
+
+.header-menu-c {
+  color: #2e2f42;
 }
 
 .header-menu-c:hover {
@@ -58,21 +70,19 @@ a {
 }
 
 .header-adress {
-  font-family: 'Roboto', sans-serif;
-  font-weight: 400;
   font-size: 16px;
-  line-height: 150%;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
   font-style: normal;
 }
 
 .header-address-mail {
-  color: #404bbf;
+  color: #434455;
 }
 
 .header-address-tel {
-  color: #404bbf;
+  color: #434455;
 }
 
 .hero {
