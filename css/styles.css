@@ -24,16 +24,12 @@ a {
   color: #2e2f42;
 }
 
-.header-menu {
+.header-menu-s {
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
-.header-menu-s {
   color: #2e2f42;
 }
 
@@ -45,16 +41,12 @@ a {
   color: #404bbf;
 }
 
-.header-menu {
+.header-menu-p {
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
-.header-menu-p {
   color: #2e2f42;
 }
 
@@ -66,7 +58,7 @@ a {
   color: #404bbf;
 }
 
-.header-menu {
+.header-menu-c {
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 16px;
