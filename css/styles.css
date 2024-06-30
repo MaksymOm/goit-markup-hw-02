@@ -61,6 +61,14 @@ a {
   color: #404bbf;
 }
 
+.header-menu-p:active {
+  background: #404bbf;
+  border-radius: 2px;
+  width: 48px;
+  height: 4px;
+  color: #2e2f42;
+}
+
 .header-menu-c {
   color: #2e2f42;
 }
@@ -69,27 +77,37 @@ a {
   color: #404bbf;
 }
 
+.header-menu-c:active {
+  background: #404bbf;
+  border-radius: 2px;
+  width: 48px;
+  height: 4px;
+  color: #2e2f42;
+}
+
 .header-adress {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
   font-style: normal;
 }
 
 .header-address-mail {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #434455;
 }
 
-.header-address-mail:hover {
+.header-address-mail:hover,
+:focus {
   color: #404bbf;
 }
 
 .header-address-tel {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #434455;
 }
 
-.header-address-tel:hover {
+.header-address-tel:hover,
+:focus {
   color: #404bbf;
 }
 
