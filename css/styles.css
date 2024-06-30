@@ -54,6 +54,7 @@ a {
 }
 
 .header-menu-p {
+  font-weight: 500;
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
@@ -73,6 +74,7 @@ a {
 }
 
 .header-menu-c {
+  font-weight: 500;
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
@@ -96,6 +98,7 @@ a {
 }
 
 .header-address-mail {
+  font-style: normal;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
@@ -107,6 +110,7 @@ a {
 }
 
 .header-address-tel {
+  font-style: normal;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
