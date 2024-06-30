@@ -81,8 +81,16 @@ a {
   color: #434455;
 }
 
+.header-address-mail:hover {
+  color: #404bbf;
+}
+
 .header-address-tel {
   color: #434455;
+}
+
+.header-address-tel:hover {
+  color: #404bbf;
 }
 
 .hero {
