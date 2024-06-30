@@ -42,6 +42,11 @@ a {
   border-radius: 2px;
   width: 48px;
   height: 4px;
+  color: #2e2f42;
+}
+
+.header-menu-s:focus {
+  color: #404bbf;
 }
 
 .header-menu-p:hover {
@@ -52,13 +57,14 @@ a {
   color: #404bbf;
 }
 
-.header-adress-link {
+.header-adress {
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #434455;
+  font-style: normal;
 }
 
 .header-address-mail {
@@ -106,7 +112,7 @@ a {
   overflow: hidden;
 }
 
-.benefits {
+.benefits-ul {
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 20px;
