@@ -24,7 +24,7 @@ a {
   color: #2e2f42;
 }
 
-.header-menu-s {
+.header-menu {
   font-family: 'Roboto', sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -33,45 +33,11 @@ a {
   color: #2e2f42;
 }
 
-.header-menu-s:hover {
+.header-menu:hover {
   color: #404bbf;
 }
 
-.header-menu-s:focus {
-  color: #404bbf;
-}
-
-.header-menu-p {
-  font-family: 'Roboto', sans-serif;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 150%;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
-.header-menu-p:hover {
-  color: #404bbf;
-}
-
-.header-menu-p:focus {
-  color: #404bbf;
-}
-
-.header-menu-c {
-  font-family: 'Roboto', sans-serif;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 150%;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
-.header-menu-c:hover {
-  color: #404bbf;
-}
-
-.header-menu-c:focus {
+.header-menu:focus {
   color: #404bbf;
 }
 
@@ -82,27 +48,15 @@ a {
   color: #434455;
 }
 
-.header-address-mail {
+.header-address-link {
   color: #434455;
 }
 
-.header-address-mail:hover {
+.header-address-link:hover {
   color: #404bbf;
 }
 
-.header-address-mail:focus {
-  color: #404bbf;
-}
-
-.header-address-tel {
-  color: #434455;
-}
-
-.header-address-tel:hover {
-  color: #404bbf;
-}
-
-.header-address-tel:focus {
+.header-address-link:focus {
   color: #404bbf;
 }
 
