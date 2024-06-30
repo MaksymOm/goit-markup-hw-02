@@ -83,6 +83,11 @@ a {
   cursor: pointer;
 }
 
+.button:hover,
+:focus {
+  background-color: #404bbf;
+}
+
 .visually-hidden {
   position: absolute;
   width: 1px;
